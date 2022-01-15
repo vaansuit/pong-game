@@ -1,6 +1,6 @@
 let ctx, p1_y, p2_y, p1_points, p2_points
 let ball_y_orientation, ball_x_orientatio, ball_x, ball_y
-const h=500, w=800, p_w=20, p_h=200, p1_x =10, p2_x= w - p_w -10
+const h=500, w=800, p_w=20, p_h=80, p1_x =10, p2_x= w - p_w -10
 
 function setup () {
     const canvas = document.getElementById("canvas")

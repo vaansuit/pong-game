@@ -108,7 +108,7 @@ function drawRect(x, y, w, h, color='#fff') {
 
 //Writing points 
 
-function writePonits() {
+function writePoints() {
     ctx.font = "50px monospace";
     ctx.fillStyle ="#fff"
     ctx.fillText(p1_points, w/4, 50);
